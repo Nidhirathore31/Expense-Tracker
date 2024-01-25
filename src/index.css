@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  color: #001f3f;
+  background-color: #f1c0ab;
+}
+a{
+  text-decoration: none;
+  color: #001f3f;
+}
